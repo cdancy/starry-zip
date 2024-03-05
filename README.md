@@ -1,3 +1,5 @@
+**THE ONLY THING THIS FORK DOES IS USE GO 1.20**
+
 Go zip library
 ==============
 
