@@ -1,3 +1,3 @@
-module github.com/STARRY-S/zip
+module github.com/cdancy/starry-zip
 
 go 1.20
